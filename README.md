@@ -1,39 +1,32 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi, I'm Malik Ahmad 👋
 
-###
+**DevOps & Cloud Engineer** · Lahore, Pakistan (remote)
 
-<p align="left">Hey there! 👋 I'm Malik Ahmad.</p>
+I help teams ship faster and run reliable infrastructure: automated CI/CD, repeatable cloud setups on AWS and GCP, and logging that makes incidents easier to diagnose.
 
-###
+## What I work with
 
-<h2 align="left">About me</h2>
+| Area | Tools |
+|---|---|
+| Cloud | AWS (EC2, ECS, EKS), Google Cloud Platform |
+| Infrastructure as Code | Terraform, Ansible |
+| CI/CD | Jenkins, GitLab CI/CD, Git |
+| Containers | Docker, Kubernetes |
+| Observability | ELK Stack (Elasticsearch, Logstash, Kibana) |
+| Systems & scripting | Linux administration, Bash |
+| Also | JavaScript, Node.js, React |
 
-###
+## What I can help with
 
-<p align="left">✨ Creating bugs since 2023! 🐛<br><br>📚 I'm currently learning the intricate dance of DevOps and the artistry of Next.js.<br><br>🎯 Goals: Crafting a groundbreaking SaaS product that redefines the digital landscape.<br><br>🎲 Fun fact: I once turned a coffee-fueled coding session into a spontaneous hackathon with my cat as the chief debugger! 🐾<br><br>Keep coding, stay curious, and let's build the future together! 💻🚀</p>
+- Building CI/CD pipelines that build, test, and deploy automatically
+- Setting up and automating AWS / GCP environments
+- Server and deployment automation with Ansible and Bash
+- Dockerizing applications and moving them onto Kubernetes / ECS
+- Centralized logging and monitoring with the ELK Stack
+- Linux server administration, troubleshooting, and performance tuning
 
-###
+## Work with me
 
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
-
-###
+- Upwork: https://www.upwork.com/freelancers/~018e34518550d06159
+- Portfolio: https://malikahmad.netlify.app/
+- LinkedIn: https://www.linkedin.com/in/malik-ahmad-/
